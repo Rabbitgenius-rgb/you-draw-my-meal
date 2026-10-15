@@ -1,0 +1,10 @@
+node_modules/
+.env*
+!.env.example
+project.private.config.json
+miniprogram/lib/device.local.js
+.phone-dev.json
+.DS_Store
+test-results/
+*backup*.json
+*private*.json

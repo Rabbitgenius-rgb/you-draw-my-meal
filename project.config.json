@@ -1,0 +1,14 @@
+{
+  "description": "你画我点 · 交互原型",
+  "miniprogramRoot": "miniprogram/",
+  "projectname": "draw-my-meal",
+  "appid": "touristappid",
+  "compileType": "miniprogram",
+  "libVersion": "3.7.8",
+  "setting": {
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "urlCheck": true
+  }
+}

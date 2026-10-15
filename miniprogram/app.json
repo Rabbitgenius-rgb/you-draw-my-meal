@@ -1,0 +1,11 @@
+{
+  "pages": ["pages/index/index", "pages/draw/draw", "pages/guess/guess"],
+  "window": {
+    "navigationBarTitleText": "你画我点",
+    "navigationBarBackgroundColor": "#faf7ef",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#faf7ef"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
